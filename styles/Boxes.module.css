@@ -1,0 +1,36 @@
+.boxes {
+  display: flex;
+  overflow: scroll;
+  justify-content: space-between;
+}
+.icon {
+  width: 3em;
+}
+.tempRange {
+  width: 0.8em;
+  background-color: bisque;
+}
+
+.rangeBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: max-content;
+  justify-content: space-between;
+}
+.rangeBox p {
+  margin: 0.5em auto;
+}
+.dayForcast {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 1.5em;
+  min-width: 70px;
+}
+.hourForcast {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto 1em;
+}

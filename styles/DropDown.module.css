@@ -1,0 +1,8 @@
+.DropDownContainer {
+  border: 1px solid gray;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: white;
+  width: 90%;
+}

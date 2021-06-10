@@ -1,0 +1,25 @@
+.leftBar {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.searchBox {
+  position: relative;
+}
+.searchBox input {
+  width: 90%;
+}
+.openDropDownInput {
+  border-bottom: none;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.locationBox {
+  display: flex;
+  align-items: baseline;
+}
+.locationBox p {
+  margin-left: 0.5em;
+}

@@ -1,0 +1,34 @@
+.rightBar {
+  flex: 3;
+  overflow: auto;
+  padding: 1em;
+}
+.todayHighlights {
+}
+.todayHighlightsBoxes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.todayHighlights p {
+  text-align: left;
+}
+.buttons {
+  text-align: left;
+}
+.buttons button {
+  border: 0;
+  background: content-box;
+}
+
+.buttons .onButton {
+  font-weight: bold;
+}
+.buttons .offButton {
+  color: gray;
+}
+
+.forcasts {
+  height: 22em;
+}
