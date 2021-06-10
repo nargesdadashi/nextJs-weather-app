@@ -3,7 +3,8 @@
 ### How to run:
 
 1. Go to the root folder.
-2. ```bash npm install ```
+2. ```bash 
+npm install ```
 3. Get API key from here [OpenWeather](https://home.openweathermap.org/users/sign_up)
 4. create .env.local file and add your API Key :
   ```REACT_WEATHER_APP_ID = your_key ```
