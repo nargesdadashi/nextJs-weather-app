@@ -1,4 +1,4 @@
-##simple NextJs weather app
+## simple NextJs weather app
 
 ### Getting Started
 
